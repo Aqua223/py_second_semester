@@ -1,0 +1,1 @@
+[Отчёт](https://aqua223.github.io/labs/lab_2/)
